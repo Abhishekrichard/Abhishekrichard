@@ -3,7 +3,7 @@
 - 🌱 I’m currently advancing in python ...
 
 
-# 👋 Hi, I’m @Ashritom
+
 
 Welcome to my GitHub profile! I'm excited to share my journey and projects with you. Here’s a little bit about me:
 
