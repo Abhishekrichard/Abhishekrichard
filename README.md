@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm excited to share my journey and projects with 
 
 🚀 My gaze is fixed firmly on a future in cybersecurity, where I aspire to fortify the digital landscape against emerging threats and vulnerabilities.
 
-Join me on this exhilarating journey, where we'll code, learn, and secure the future together! 💼🔒
+Join me on this exhilarating journey, where we'll code, learn, and secure the future together! 
 
 ---
 
