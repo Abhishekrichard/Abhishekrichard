@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm excited to share my journey and projects with 
 ## 💬 Let's Connect!
 
 - [Instagram](https://www.instagram.com/___.richii.___/#)
-- [LinkedIn](#https://www.linkedin.com/in/richard-abhishek-ab234126a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BQHnoiuPIQUqZEVbc3rnHGA%3D%3D)
+- [LinkedIn](https://www.linkedin.com/in/richard-abhishek-ab234126a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BQHnoiuPIQUqZEVbc3rnHGA%3D%3D)
 
 # 👋 Hello there, I'm Abhishek !
 
