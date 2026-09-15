@@ -111,7 +111,7 @@ A responsive financial dashboard focused on financial data visualization and cli
 ## 📫 Connect With Me
 
 - [Instagram](https://www.instagram.com/___.richii.___/#)
-- 💼 [LinkedIn](www.linkedin.com/in/richard-abhishek-kondapalli-ab234126a)
+- [LinkedIn](https://www.linkedin.com/in/richard-abhishek-kondapalli-ab234126a)
 
 
 ---
